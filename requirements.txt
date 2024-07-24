@@ -3,6 +3,6 @@ pandas==2.2.1
 matplotlib==3.7.1
 seaborn==0.12.2
 numpy==1.23.2  # Updated to meet pandas requirements
-duckdb==0.3.2
+duckdb==1.0.0
 streamlit-dynamic-filters==0.1.5
 millify==0.1.1
